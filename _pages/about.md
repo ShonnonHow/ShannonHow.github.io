@@ -16,6 +16,6 @@ I'm a fourth-year undergraduate student from [School of Mathematical Sciences](h
 
 Education
 ======
-09/2020 — 07/2024(expected): B.S. in Information & Computational Science, School of Mathematical Sciences(https://math.ustc.edu.cn/ENGLISH/list.htm), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/)
+- 09/2020 — 07/2024(expected): B.S. in Information & Computational Science, [School of Mathematical Sciences](https://math.ustc.edu.cn/ENGLISH/list.htm), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/)
 
 
