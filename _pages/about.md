@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a fourth-year undergraduate student from [School of Mathematical Sciences](https://math.ustc.edu.cn/ENGLISH/list.htm), [University of Science and Technology of China](http://en.ustc.edu.cn/). My research interest includes machine learning, AI4Science(PDE), optimization and sampling.
+I'm a fourth-year undergraduate student from [School of Mathematical Sciences](https://math.ustc.edu.cn/ENGLISH/list.htm), [University of Science and Technology of China](http://en.ustc.edu.cn/). My research interest includes machine learning, AI4Science (PDE), optimization, and sampling.
 
 （You can pronounce my name as "Shannon How")
 
