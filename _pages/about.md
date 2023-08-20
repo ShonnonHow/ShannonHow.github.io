@@ -11,7 +11,7 @@ I'm a fourth-year undergraduate student from [School of Mathematical Sciences](h
 
 （You can Pronounce my name as "Shannon How")
 
-[Email](shannonhow2002@gmail.com) / [Github](https://github.com/shannonhow) 
+[Email](howdragon@mail.ustc.edu.cn) / [Github](https://github.com/shannonhow) 
 
 Education
 ======
