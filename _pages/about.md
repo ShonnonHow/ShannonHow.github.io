@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a fourth-year undergraduate student from [School of Mathematical Sciences](https://math.ustc.edu.cn/ENGLISH/list.htm), [University of Science and Technology of China](http://en.ustc.edu.cn/). My research interest includes machine learning, AI4Science (PDE), optimization, and sampling.
 
-（You can pronounce my name as "Shannon How")
+*（You can pronounce my name as "Shannon How")*
 
 [Email](howdragon@mail.ustc.edu.cn) / [Github](https://github.com/shannonhow) 
 
@@ -19,7 +19,9 @@ Education
 
 Research Experience
 ======
-- ## test
-  dsa
-- ## test
+- ## Machine learning methods for partial differential equations
+  
+- ## Research on Explainable AI
+- ## Adaptive Sampling for ML-Based PDE Solvers
+- ## Research on score-based generative models and Langevin dynamics
 
