@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a fourth-year undergraduate student from [School of Mathematical Sciences](https://math.ustc.edu.cn/ENGLISH/list.htm), [University of Science and Technology of China](http://en.ustc.edu.cn/). My research interest includes machine learning, AI4Science (PDE), optimization, and sampling.
+I'm an incoming Ph.D. student in [Applied Mathematics and Computational Science](https://amcs.upenn.edu/) at [University of Pennsylvania](https://www.upenn.edu/). Previously, I received my B.S. degree in computational science at [University of Science and Technology of China](http://en.ustc.edu.cn/) in June, 2024. My research interests include machine learning, scientific computing and sampling.
 
 *（You can pronounce my name as "Shannon How")*
 
 
 Education
 ======
-- 09/2020 — 07/2024(expected): B.S. in Information & Computational Science, [School of Mathematical Sciences](https://math.ustc.edu.cn/ENGLISH/list.htm), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/)
+- 09/2020 — 06/2024: B.S. in Information & Computational Science, [School of Mathematical Sciences](https://math.ustc.edu.cn/ENGLISH/list.htm), [University of Science and Technology of China (USTC)](http://en.ustc.edu.cn/)
 
 Research Experience
 ======
